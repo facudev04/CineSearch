@@ -168,7 +168,6 @@ function App() {
       ) : (
 
         <div>
-          {/* HERO */}
           {hero && !searchQuery && (
             <div className="hero">
               <img
